@@ -1,0 +1,7 @@
+@import "_mixins/font_face";
+
+@include font-face('pobedaRegular', '../fonts/Pobeda-Regular/Pobeda-Regular');
+@include font-face('pobedaBold', '../fonts/Pobeda-Bold/Pobeda-Bold', bold);
+
+//@include font-face('Roboto', '../fonts/RobotoBold/RobotoBold', bold);
+//@include font-face('HelveticaNeue', '../fonts/HelveticaNeueRegular/HelveticaNeueRegular');
